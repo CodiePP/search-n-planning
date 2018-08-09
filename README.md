@@ -4,9 +4,9 @@ Prolog implementation of search and planning (AIMA chapter 10)
 
 ## example
 
-`swipl planned_story.pl`
+`swipl run.pl`
 
-and read a random story on http://localhost:8000
+and read a random story on http://localhost:8080
 
 
 ## TODO
